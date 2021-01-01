@@ -24,7 +24,7 @@ page_sections:
     button_text: Get Involved
   image:
     image: "/uploads/2021/01/01/artificial-intelligence-3685928_1920.png"
-    alt_text: Product Shot
+    alt_text: AI thing
   background_image: "/uploads/2021/01/01/4k-dark-blue-lines-grid-lines-wallpaper-thumb.jpg"
 - template: content-feature
   block: feature-1
