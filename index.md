@@ -23,9 +23,9 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: Get Involved
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
+    image: "/uploads/2021/01/01/artificial-intelligence-3685928_1920.png"
     alt_text: Product Shot
-  background_image: "/uploads/2021/01/01/calgary.jpg"
+  background_image: "/uploads/2021/01/01/4k-dark-blue-lines-grid-lines-wallpaper-thumb.jpg"
 - template: content-feature
   block: feature-1
   media_alignment: Left
