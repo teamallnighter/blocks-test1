@@ -29,14 +29,15 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  slug: swap
-  headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
-    class="light">the Blocks to create sites quickly</span>
-  content: Quickly assemble and create custom sites with 16 design blocks for seven
-    different sections.
+  slug: volunteer
+  headline: "<strong>Volunteer</strong>"
+  content: "<strong>Interested in volunteering with GO?</strong>The success of GO
+    and its initiatives depends on attracting and engaging high-quality volunteers
+    to help to advise and direct it. You can sign-up to our mailing list (see below)
+    to receive updates on GO and its initiatives."
   media:
-    image: "/uploads/2018/06/21/blocks-split.png"
-    alt_text: uBuild Blocks Mock-Up
+    image: "/uploads/2021/01/01/photo-1557660559-42497f78035b.jpeg"
+    alt_text: Volunteer
 - template: content-feature
   block: feature-1
   media_alignment: Right
