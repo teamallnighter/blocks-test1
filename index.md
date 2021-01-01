@@ -61,7 +61,7 @@ page_sections:
     community will benefit and make a difference to everyone within.</em>"
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2018/06/21/theme.png"
+  image: "/uploads/2021/01/01/4k-dark-blue-lines-grid-lines-wallpaper-thumb.jpg"
   caption: All Available Blocks
   slug: blocks
 - template: detail-content
